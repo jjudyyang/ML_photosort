@@ -47,11 +47,9 @@ Before running the project, ensure you have the following prerequisites:
 
 ## Customizing the Model
 
-The script uses a simple pre-trained InceptionV3 model for image classification. If you wish to improve the model's accuracy or fine-tune it for your specific needs, consider the following:
+- You can fine-tune the CNN model architecture and hyperparameters within the `classify_images.py` script to improve classification accuracy.
 
-- Train a custom CNN model on a labeled dataset of food and non-food images.
-- Adjust the architecture, hyperparameters, and data preprocessing steps in the script to suit your specific requirements.
-
+- Adjust the folder structure, path names, and naming conventions to meet your specific requirements.
 
 ## Acknowledgments
-This project was created as a demonstration of image classification using a CNN and to make my much loved hobby of writing Google Reviews a bit faster ( and slower ) 
+This project was created as a demonstration of image classification using a CNN and to make my much loved hobby of writing Google Reviews a bit faster (and in other aspects slower) 
