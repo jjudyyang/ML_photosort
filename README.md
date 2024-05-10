@@ -1,8 +1,8 @@
 # Image Classifier for Sorting Food and Non-Food Images 
 
-## Overview
 ![Photosort Visual Display For Github Repo](https://github.com/jjudyyang/ML_photosort/assets/25236683/79539833-e639-4e5c-8842-dc30374f8879)
 
+## Overview
 This project aims to automatically classify images into two categories: "food" and "not food.". It uses a Convolutional Neural Network (CNN) implemented with TensorFlow to perform image classification. The objective is to sort photos from your camera roll or any other source into these two categories, making it easier to manage image collection. After classifying the images, it also sorts the "food" images by date and location.
 
 ## Prerequisites
